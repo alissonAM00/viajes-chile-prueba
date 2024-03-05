@@ -19,7 +19,7 @@
     
     //alert al boton enviar
     $("#boton").one("click", function(){
-        alert("gracias pr contactarte con nosotros");
+        alert("gracias por contactarte con nosotros");
     });
  
 
